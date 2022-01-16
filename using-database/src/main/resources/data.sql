@@ -1,0 +1,1 @@
+insert into groups(name) values('ВПУ 911');
